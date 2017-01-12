@@ -3,6 +3,11 @@
 Skriver ner stegen jag gjorde här på brownbagen. 
 Tänker också att detta kan fungera som en tutorial/lathund för att sätta upp ett tomt bygge, bara att följa stegen och sen är man uppe och kör.
 
+##npm måste vara installerat. Det är bundlat med node:
+https://nodejs.org/en/download/
+
+Sen är det bara att skapa en ny tom map, öppna en kommandoprompt i den mappen och fortsätta
+
 ###Installera globala libs
 ```
 npm install -g webpack typescript typings
